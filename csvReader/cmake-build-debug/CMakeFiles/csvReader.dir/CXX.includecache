@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/deni/CLionProjects/csvReader/csvReader.cpp
+stdlib.h
+-
+iostream
+-
+vector
+-
+string
+-
+fstream
+-
+
